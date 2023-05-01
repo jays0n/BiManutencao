@@ -1,5 +1,6 @@
 dash
 pandas
+gunicorn
 math
 datetime
 plotly
