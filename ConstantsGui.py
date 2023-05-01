@@ -33,9 +33,9 @@ from plotly import express,graph_objects
 import plotly.io as pio
 import base64
 import numpy as np
-from Indicators import *
+#from Indicators import *
 from functools import reduce
-import EngClsMatrix as mtx
+#import EngClsMatrix as mtx
 from EngSettings import *
 import os
 import json
