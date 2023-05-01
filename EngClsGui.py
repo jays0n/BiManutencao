@@ -19,10 +19,10 @@ from datetime import datetime
 
 from GuiFuncs import *
 from Dashboards import *
-from flask import Flask
+#from flask import Flask
 
 #Server
-server=Flask(__name__)
+#server=Flask(__name__)
 
 #Constants:
 main_title="BI Manutenção"
@@ -32,9 +32,10 @@ web_pages_title={'':'Home'}
 web_pages_content={'':[]}
 
 #Main applications (DASH):
-main_app=DashProxy(server=server,name=__name__,routes_pathname_prefix='/',external_scripts=external_scripts,external_stylesheets=external_stylesheets,transforms=[MultiplexerTransform()])
+main_app=DashProxy(name=__name__,external_scripts=external_scripts,external_stylesheets=external_stylesheets,transforms=[MultiplexerTransform()])
 main_app.config.suppress_callback_exceptions=True   
 
+server=main_app.server
 #Imported Charts
 
 #Aggman:
