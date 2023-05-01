@@ -1,0 +1,16 @@
+{
+  "base_indicador": {
+    "manutencao_atrasada": "C:\\Users\\francisco.sousa\\Log-In Logistica Intermodal S.A\\Frota Engenharia - General\\FROTA ENGENHARIA\\06 - CONTROLE E INDICADORES\\02 - INDICADORES\\BASE\\Manutencoes atrasadas\\manutencoes previstas.xlsx",
+    "aggman": "C:\\Users\\francisco.sousa\\Log-In Logistica Intermodal S.A\\Frota Engenharia - General\\FROTA ENGENHARIA\\06 - CONTROLE E INDICADORES\\02 - INDICADORES\\BASE\\RELATORIO AGGMAN.xlsx",
+    "relatorio_os": "C:\\Users\\francisco.sousa\\Log-In Logistica Intermodal S.A\\Frota Engenharia - General\\FROTA ENGENHARIA\\06 - CONTROLE E INDICADORES\\02 - INDICADORES\\BASE\\BACKLOG GERAL - ANO.xlsx",
+    "disponibilidade": {
+      "LOGIN JATOBA": "C:\\Users\\francisco.sousa\\Log-In Logistica Intermodal S.A\\Frota Engenharia - General\\FROTA ENGENHARIA\\06 - CONTROLE E INDICADORES\\02 - INDICADORES\\BASE\\Disponibilidade\\LOBA",
+      "LOGIN JACARANDA": "C:\\Users\\francisco.sousa\\Log-In Logistica Intermodal S.A\\Frota Engenharia - General\\FROTA ENGENHARIA\\06 - CONTROLE E INDICADORES\\02 - INDICADORES\\BASE\\Disponibilidade\\LOJA",
+      "LOGIN PANTANAL": "C:\\Users\\francisco.sousa\\Log-In Logistica Intermodal S.A\\Frota Engenharia - General\\FROTA ENGENHARIA\\06 - CONTROLE E INDICADORES\\02 - INDICADORES\\BASE\\Disponibilidade\\LOPA",
+      "LOGIN POLARIS": "C:\\Users\\francisco.sousa\\Log-In Logistica Intermodal S.A\\Frota Engenharia - General\\FROTA ENGENHARIA\\06 - CONTROLE E INDICADORES\\02 - INDICADORES\\BASE\\Disponibilidade\\LOPO",
+      "LOGIN RESILIENTE": "C:\\Users\\francisco.sousa\\Log-In Logistica Intermodal S.A\\Frota Engenharia - General\\FROTA ENGENHARIA\\06 - CONTROLE E INDICADORES\\02 - INDICADORES\\BASE\\Disponibilidade\\LORE",
+      "LOGIN ENDURANCE": "C:\\Users\\francisco.sousa\\Log-In Logistica Intermodal S.A\\Frota Engenharia - General\\FROTA ENGENHARIA\\06 - CONTROLE E INDICADORES\\02 - INDICADORES\\BASE\\Disponibilidade\\LOEN",
+      "LOGIN DISCOVERY": "C:\\Users\\francisco.sousa\\Log-In Logistica Intermodal S.A\\Frota Engenharia - General\\FROTA ENGENHARIA\\06 - CONTROLE E INDICADORES\\02 - INDICADORES\\BASE\\Disponibilidade\\LODI"
+    }
+  }
+ }
