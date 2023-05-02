@@ -21,7 +21,7 @@ import EngClsGui as gui
 
 gui_interface=gui.GraficInterface()
 
-
+'''
 ds_manutencao_atrasada=gui.Dash_Manutencao_Atrasada()
 ds_aggman=gui.Dash_Aggman()
 ds_disponibilidade=gui.Dash_Disponibilidade()
@@ -30,5 +30,5 @@ gui_interface.Add('manutencoesatrasadas','Manutenções Atrasadas',ds_manutencao
 gui_interface.Add('aggman','Indicador AGGMAN',ds_aggman.Create())
 gui_interface.Add('disponibilidade','Disponibilidade',ds_disponibilidade.Create())
 
-
+'''
 gui_interface.Run()
